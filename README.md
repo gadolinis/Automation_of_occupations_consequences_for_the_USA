@@ -25,7 +25,7 @@ Questions to analyse:
 
 ![name2](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20probability%20of%20automatisation%20in%20S.%20Dakota%2C%20Nevada%2C%20DC%20and%20Massachusetts.png)
 
-
+![name8](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Total%20number%20of%20jobs%20positions%20per%20state%20now%20(Threshhold%3D1.0)%20and%20when%20higher%20automation%20probability%20accupations%20lost%20(Threshhold%3Dthreshhold).png)
 
 ![name4](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20District%20of%20Columbia.png)
 
@@ -35,7 +35,5 @@ Questions to analyse:
 
 ![name7](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20South%20Dakota.png)
 
-![name8](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Total%20number%20of%20jobs%20positions%20per%20state%20now%20(Threshhold%3D1.0)%20and%20when%20higher%20automation%20probability%20accupations%20lost%20(Threshhold%3Dthreshhold).png)
 
-![name9](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Total%20number%20of%20jobs%20positions%20per%20state.png)
 
