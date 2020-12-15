@@ -1,21 +1,13 @@
 # Automation_of_occupations_consequences_for_the_USA
 
-Nobody has a crystal ball that can tell the future, but some people don’t need an ancient relic to foresee what’s going to haven, because they are currently building the future in which we will all live.
+## Project motivation
 
-It’s true that AI and Automation will wreak havoc among the workforce rending a large part of the population useless and without economic value.
-
-Not only they will take your jobs, but they will make the rich even richer.
-
-If you are looking for job opportunities which are less likely to be affected by AI or automation, well you’re in the right place.
-
-That said, it might be wise to consider some of the fields which will see an uptick in productivity in the following years.
-Questions to analyse:
-
-1. Which occupatios are the most sensitive and the most robust to automatisation (computerisation)?
-2. See, how looks data distribution
-3. What is the jobs loss in the US, if automatisation take out occupations with automatisation probability equal to 0.7 or higher?
-4. Which US states are the most sensitive and the most robust to automatisation?
-5. Compare most common occupations or automatisation
+AI and Automation will indeed wreak havoc among the workforce rending a large part of the population useless and without economic value in the next decade or two. Not only automation will take your jobs, but it will make the rich even richer. If you are looking for job opportunities that are less likely to be affected by AI or automation, well you’re in the right place.
+In this project I am going to analyze:
+Which occupations are the most sensitive and the most robust to automation (computerization)?
+What are the jobs lost in the US, if automation takes out occupations with automation probability equal to 0.7 or higher?
+Which US states are the most sensitive and the most robust to automation?
+Compare the most common occupations for automation in the US.
 
 ![name1](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20the%20probability%20of%20automation%20by%20states.png)
 
