@@ -21,12 +21,13 @@ In the charts below you can see the most sensitive and most robust occupations a
 
 If you are looking for job opportunities that are less likely to be affected by AI or automation, you can find all occupation probabilities here.
 
-Probability higher than 0.7 representing a "high-risk category, meaning that associated occupations are potentially automatable over some unspecified number of years, perhaps a decade or two" according to the original research paper. We can look to this probability as to a time frame, where higher probability occupations are likely to be automated sooner.
-I assume that US lost job positions, which have a job automation probability of 0.7 or higher (threshold >= 0.7).
+Probability higher than 0.7 representing a "high-risk category, meaning that associated occupations are potentially automatable over some unspecified number of years, perhaps a decade or two" according to the original research paper (The future of employment: How susceptible are jobs to computerisation? Carl Benedikt Frey, Michael A.Osborne). We can look to this probability as to a time frame, where higher probability occupations are likely to be automated sooner.
+
+I assume that US lost job positions, which have a job automation probability of 0.7 or higher (threshold >= 0.7). Lets look, what are job loss in this scenario.
 
 ![name3](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Total%20number%20of%20jobs%20positions%20per%20state%20now%20(Threshhold%3D1.0)%20and%20when%20higher%20automation%20probability%20accupations%20lost%20(Threshhold%3Dthreshhold).png)
 
-Lets look, what are reliative loss numbers.
+Let's look, what percent of jobs are lost in different states' populations.
 
 ![name4](https://raw.githubusercontent.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/master/img/general_Lost%20jobs%20ratio%20per%20state%20when%20we%20lost%20jobs%20with%20automatisation%20probability%20equal%20to%200.7%20(Threshhold)%20or%20higher.png)
 
@@ -48,3 +49,10 @@ District of Columbia has lowest sensitivity for automation. Let's check the data
 
 ![name6](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20District%20of%20Columbia.png)
 
+## Data sourse
+
+https://www.kaggle.com/andrewmvd/occupation-salary-and-likelihood-of-automation
+
+https://www.infoplease.com/us/states/state-population-by-rank
+
+The future of employment: How susceptible are jobs to computerisation? Carl Benedikt Frey, Michael A.Osborne
