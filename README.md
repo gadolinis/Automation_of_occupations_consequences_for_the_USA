@@ -29,7 +29,7 @@ I assume that US lost job positions, which have a job automation probability of 
 
 Let's look, what percent of jobs are lost in different states' populations.
 
-![name4](https://raw.githubusercontent.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/master/img/general_Lost%20jobs%20ratio%20per%20state%20when%20we%20lost%20jobs%20with%20automatisation%20probability%20equal%20to%200.7%20(Threshhold)%20or%20higher.png)
+![name4](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Lost%20jobs%20ratio%20per%20state%20when%20we%20lost%20jobs%20with%20automatisation%20probability%20equal%20to%200.7%20(Threshold)%20or%20higher.png)
 
 ![name5](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20probability%20of%20automatisation%20in%20S.%20Dakota%2C%20Nevada%2C%20DC%20and%20Massachusetts.png)
 
