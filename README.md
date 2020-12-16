@@ -1,13 +1,16 @@
 # Automation_of_occupations_consequences_for_the_USA
 
+AI and Automation will wreak havoc among the workforce rending a large part of the population useless and without economic value in the next decade or two. Not only automation will take your jobs, but it will make the rich even richer. If you are looking for job opportunities that are less likely to be affected by AI or automation, well you’re in the right place.
+
 ## Project motivation
 
-AI and Automation will indeed wreak havoc among the workforce rending a large part of the population useless and without economic value in the next decade or two. Not only automation will take your jobs, but it will make the rich even richer. If you are looking for job opportunities that are less likely to be affected by AI or automation, well you’re in the right place.
-In this project I am going to analyze:
+This project was inspired by Vilnius Coding School Data analyst project. I wanted to practice Python Pandas, Seaborn, Numpy and Matplotlib on Employment data from US Bureau of Labor Statistics and Risk of Automation. My initial questions were:
+
 Which occupations are the most sensitive and the most robust to automation (computerization)?
 What are the jobs lost in the US, if automation takes out occupations with automation probability equal to 0.7 or higher?
 Which US states are the most sensitive and the most robust to automation?
 Compare the most common occupations for automation in the US.
+
 
 ![name1](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20the%20probability%20of%20automation%20by%20states.png)
 
