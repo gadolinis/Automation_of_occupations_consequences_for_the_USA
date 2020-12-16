@@ -37,7 +37,7 @@ South Dakota and Nevada have the most job losses. The biggest occupations they l
 
 ![name9](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20South%20Dakota.png)
 
-Massachusetts and District of Columbia has lowest sensitivity for automation.
+Massachusetts and District of Columbia have the lowest sensitivity for automation, but the biggest occupations they lose are very similar. Only DC has security guards, secretaries, administrative assistants, accountants, and office clerks as the biggest occupations.
 
 ![name7](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20Massachusetts.png)
 
