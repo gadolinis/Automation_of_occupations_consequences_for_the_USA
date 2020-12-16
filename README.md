@@ -31,19 +31,15 @@ As you see, every state loses around half of job positions. South Dakota and Nev
 
 ![name5](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20probability%20of%20automatisation%20in%20S.%20Dakota%2C%20Nevada%2C%20DC%20and%20Massachusetts.png)
 
-South Dakota and Nevada have most jobs losses. Lets look, what are biggest occupations they lost.
+South Dakota and Nevada have the most job losses. The biggest occupations they lose are retail salespersons, cashiers, waiters, food preparation and serving workers, bookkeeping, accounting and auditing clerks, material movers etcetera.
 
 ![name8](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20Nevada.png)
 
 ![name9](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20South%20Dakota.png)
 
-
-
-Massachusetts data
+Massachusetts and District of Columbia has lowest sensitivity for automation.
 
 ![name7](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20Massachusetts.png)
-
-District of Columbia has lowest sensitivity for automation. Let's check the data.
 
 ![name6](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20District%20of%20Columbia.png)
 
