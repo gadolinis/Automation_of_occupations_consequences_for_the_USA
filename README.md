@@ -25,7 +25,7 @@ Probability higher than 0.7 representing a "high-risk category, meaning that ass
 
 I assume that US lost job positions, which have a job automation probability of 0.7 or higher (threshold >= 0.7). Lets look, what are job loss in this scenario.
 
-![name3](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Total%20number%20of%20jobs%20positions%20per%20state%20now%20(Threshhold%3D1.0)%20and%20when%20higher%20automation%20probability%20accupations%20lost%20(Threshhold%3Dthreshhold).png)
+![name3](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Total%20number%20of%20jobs%20positions%20per%20state%20now%20and%20when%20higher%20automation%20probability%20occupations%20lost%20(higher%20than%200.7).png)
 
 Let's look, what percent of jobs are lost in different states' populations.
 
