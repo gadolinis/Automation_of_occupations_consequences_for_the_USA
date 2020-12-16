@@ -27,11 +27,11 @@ I assume that US lost job positions, which have a job automation probability of 
 
 ![name4](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Lost%20jobs%20ratio%20per%20state%20when%20we%20lost%20jobs%20with%20automatisation%20probability%20equal%20to%200.7%20(Threshold)%20or%20higher.png)
 
-As you see, every state loses around half of job positions. South Dakota and Nevada are the most sensitive and District of Columbia and Massachusetts are the most robust to automation.
+As you see, every state loses around half of job positions. South Dakota and Nevada are the most sensitive and District of Columbia and Massachusetts are the most robust to automation. As you can see below, Nevada and South Dakota have the most occupations with high probability for automation. District of Columbia (DC) also has many occupations with low probability for automation like management, arts, protective service and this explains why DC is so robust to automation.
 
 ![name5](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20probability%20of%20automatisation%20in%20S.%20Dakota%2C%20Nevada%2C%20DC%20and%20Massachusetts.png)
 
-South Dakota and Nevada have most jobs losses. Lets look, what are biggest occupations they lost. Let's start with Nevada data
+South Dakota and Nevada have most jobs losses. Lets look, what are biggest occupations they lost. Let's start with Nevada data.
 
 ![name8](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20Nevada.png)
 
