@@ -13,7 +13,7 @@ This project was inspired by Vilnius Coding School Data analyst project. I wante
 
 ## Which occupations will flourish and which will disappear.
 
-In the charts below you can see the most sensitive and most robust occupations and occupation categories for automation.
+In the charts below, you can see the most sensitive and most robust occupations and occupations categories for automation. Occupation category probability is only the average probability of occupations group.
 
 ![name1](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20the%20probability%20of%20automation%20by%20states.png)
 
