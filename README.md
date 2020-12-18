@@ -17,7 +17,7 @@ In the charts below, you can see the most sensitive and most robust occupations 
 
 ![name1](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_Occupation%20categories%20and%20the%20probability%20of%20automation%20by%20states.png)
 
-![name2]()
+![name2](https://raw.githubusercontent.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/master/img/general_Workers%20numbers%20in%20occupations%20with%205%20highest%20and%205%20lowest%20probabilities%20for%20automation.png)
 
 ## Jobs loss in the US, if automation takes out high-risk category occupations. Which States are the most sensitive?
 
