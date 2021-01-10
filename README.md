@@ -46,7 +46,7 @@ Massachusetts and District of Columbia have the lowest sensitivity for automatio
 ![name6](https://github.com/gadolinis/Automation_of_occupations_consequences_for_the_USA/blob/master/img/general_The%20largest%20most%20likely%20automatable%20occupations%20in%20District%20of%20Columbia.png)
 
 ## Conclusions
-* The most robust occupations for automatisations: Saugiausios specialybės nuo automatizacijos: social service, management, computer and mathematical and medicine. The most sensitive: administrative support, production, farming, fishing, forestry, food serving related.
+* The most robust occupations for automatisations: social service, management, computer and mathematical science and medicine. The most sensitive: administrative support, production, farming, fishing, forestry, food serving related.
 * US would loss around half of all jobs, if automatisation take out occupations with automatisation probability equal to 0.7 or higher?
 * South Dakota and Nevada are the most sensitive and District of Columbia and Massachusetts are the most robust to automation.
 * Nevada and South Dakota have most occupations with high probability for automation. District of Columbia also has many occupations with low probability for automatisation like management, arts and protective service.
